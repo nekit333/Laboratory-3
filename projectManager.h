@@ -5,7 +5,7 @@
 
 class projectManager: public worker
 {
-protected:
+private:
     int amountWorkers;
 public:
     projectManager();
