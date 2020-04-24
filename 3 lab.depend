@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1587731198 source:d:\university\langeage programmer\lab\3 lab\main.cpp
+	"customer.h"
+	"projectManager.h"
+	"programmer.h"
+
+1587731239 source:d:\university\langeage programmer\lab\3 lab\customer.cpp
+	"customer.h"
+
+1587731239 source:d:\university\langeage programmer\lab\3 lab\programmer.cpp
+	"programmer.h"
+
+1587731239 source:d:\university\langeage programmer\lab\3 lab\projectmanager.cpp
+	"projectManager.h"
+
+1587731239 source:d:\university\langeage programmer\lab\3 lab\worker.cpp
+	"worker.h"
+
+1587729643 source:d:\university\langeage programmer\lab\3 lab\person.cpp
+	"Person.h"
+
+1587727134 d:\university\langeage programmer\lab\3 lab\person.h
+	<iostream>
+	<string>
+	<time.h>
+
+1587731198 d:\university\langeage programmer\lab\3 lab\worker.h
+	<string>
+	"Person.h"
+
+1587731197 d:\university\langeage programmer\lab\3 lab\customer.h
+	"Person.h"
+
+1587731198 d:\university\langeage programmer\lab\3 lab\projectmanager.h
+	"worker.h"
+
+1587731198 d:\university\langeage programmer\lab\3 lab\programmer.h
+	"worker.h"
+
